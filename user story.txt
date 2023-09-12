@@ -1,0 +1,80 @@
+as a user 
+
+I want to search my liked movies
+
+so I want to select my favorite movie in search list
+
+Scope
+
+as a user i should search my liked movies in my android application
+
+pre-condition
+
+user should have there own login page and they have there own mobiles
+
+acceptance criteria
+
+scenario 1
+
+user can have there valid login page for the application
+
+they can search there liked movies in there own application 
+
+And they can get movie show successfully
+
+scenario 2
+
+user can have there in=valid login page for the application 
+
+they cannot search there liked movies in there application
+
+And they cannot get movie show Successfully
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As a User 
+
+I want to book the movies
+
+so I want select the movie on specific date and time 
+
+Scope 
+
+As a user I should select my liked movies on specific date and time
+
+pre-condition 
+
+user should have there own login page and mobiles
+
+Acceptance Criteria
+
+scenario 1
+
+user can  selected movie details 
+
+they can have list of shows
+
+And they can select the movies for there wanted date 
+
+And they get successfully booked details
+
+Scenario 2
+
+user cannot  selected movie details 
+
+they cannot have list of shows
+
+And they cannot select the movies for there wanted date 
+
+And they get Unsuccessfully booked details
